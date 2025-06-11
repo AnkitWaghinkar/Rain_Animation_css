@@ -6,3 +6,11 @@ body    {
         background-size: cover;
 }
 
+
+.rain   {
+        position: relative;
+        height: 100vh;
+        background: url(raindrops.png);
+        background-size: cover;
+        background-position: top;       
+}
